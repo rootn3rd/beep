@@ -7,3 +7,6 @@ Ionic Firebase application containing several demo features -
 3.  Firebase connectivity
 4.  Login + Database
 5.  Chat features
+
+Hosted application :
+https://beep-localdev.firebaseapp.com/
