@@ -1,0 +1,13 @@
+ion-card {
+  & ion-row {
+    float: right;
+    padding: 10px;
+    & .action-buttons {
+      & button {
+        &:nth-of-type(1) {
+          margin-right: 10px;
+        }
+      }
+    }
+  }
+}

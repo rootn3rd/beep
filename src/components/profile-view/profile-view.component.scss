@@ -1,0 +1,11 @@
+.profile-view {
+  background: #54d3bf;
+  height: 220px;
+  & .profile-view-img {
+    padding-top: 20px;
+    height: 200px;
+    max-height: 200px;
+    display: block;
+    margin: 0 auto;
+  }
+}

@@ -1,0 +1,5 @@
+<ion-content>
+  <ion-tabs>
+    <ion-tab *ngFor="let t of tabsConfig" [root]="t.pageName" [tabTitle]="t.title" [tabIcon]="t.icon" [tabsHideOnSubPages]="true"></ion-tab>
+  </ion-tabs>
+</ion-content>

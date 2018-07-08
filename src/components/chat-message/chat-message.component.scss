@@ -1,0 +1,10 @@
+chat-message {
+}
+
+.message-right {
+  & h2,
+  h3,
+  p {
+    text-align: right;
+  }
+}
